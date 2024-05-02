@@ -1,5 +1,5 @@
-
 # ADatos2024_ProyectoFinal_Data-dinasty-
+[![Captura-de-pantalla-2024-05-02-201646.png](https://i.postimg.cc/wjngyB89/Captura-de-pantalla-2024-05-02-201646.png)](https://postimg.cc/tsdL8p4c)
 
 Miembros del grupo:
 
