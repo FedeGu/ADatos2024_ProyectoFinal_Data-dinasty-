@@ -1,4 +1,4 @@
-[![ciencia-de-datos.jpg](https://i.postimg.cc/YSjLk0Nk/ciencia-de-datos.jpg)](https://postimg.cc/Ff5HV9nn)
+
 # ADatos2024_ProyectoFinal_Data-dinasty-
 
 Miembros del grupo:
