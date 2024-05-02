@@ -3,7 +3,7 @@
 
 Miembros del grupo:
 
-- 34855828 | Shirley Luz Frassa | github: slfrassa
+- 34855828 | Shirley Luz Frassa | github: sfrassa
 - 27077572 | Juan Marcelo Molina | github: marcelo79
 - 37093958 | Emilce Lucia Nicole Robles | github: emirobles
 - 37739346 | Dante Javier Pagano | github: DanteJavier
