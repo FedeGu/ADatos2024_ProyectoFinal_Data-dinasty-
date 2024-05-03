@@ -3,11 +3,11 @@
 
 Miembros del grupo:
 
-- 34855828 | Shirley Luz Frassa | [github: sfrassa](https://github.com/sfrassa)
-- 27077572 |Juan Marcelo Molina | [github: marcelo79](https://github.com/marcelo79)
-- 37093958 |Emilce Lucia Nicole Robles | [github: emirobles](https://github.com/emirobles)
-- 37739346 |Dante Javier Pagano | [github: DanteJavier](https://github.com/DanteJavier)
-- 32930970 |Juliera Battauz | [github: Bluelieta](https://github.com/Bluelieta)
-- 38455889 |Barozzi Eugenia [github: BarozziEugenia](https://github.com/BarozziEugenia)
-- 34311109 | Federico Gurrea | [github: FedeGu](https://github.com/FedeGu)
-- 94404602 | Giovanny Aguilar Rojas | [github: Haguilert](https://github.com/Haguilert)
+- 34855828 | Shirley Luz Frassa | [Github: sfrassa](https://github.com/sfrassa)
+- 27077572 |Juan Marcelo Molina | [Github: marcelo79](https://github.com/marcelo79)
+- 37093958 |Emilce Lucia Nicole Robles | [Github: emirobles](https://github.com/emirobles)
+- 37739346 |Dante Javier Pagano | [Github: DanteJavier](https://github.com/DanteJavier)
+- 32930970 |JulieTa Battauz | [Github: Bluelieta](https://github.com/Bluelieta)
+- 38455889 |Barozzi Eugenia [Github: BarozziEugenia](https://github.com/BarozziEugenia)
+- 34311109 | Federico Gurrea | [Github: FedeGu](https://github.com/FedeGu)
+- 94404602 | Giovanny Aguilar Rojas | [Github: Haguilerts](https://github.com/Haguilerts)
