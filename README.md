@@ -9,6 +9,6 @@ Miembros del grupo:
 - 37739346 | Dante Javier Pagano | github: DanteJavier
 - 32930970 | Julieta Battauz | github: Bluelieta
 - 38455889 | Eugenia Barozzi | github: BarozziEugenia
-- - [Barozzi Eugenia](https://github.com/BarozziEugenia)
+-  38455889 [Barozzi Eugenia](https://github.com/BarozziEugenia)
 - 34311109 | Federico Gurrea | github: FedeGu
 - 94404602 | Giovanny Aguilar Rojas | github: Haguilert
