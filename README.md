@@ -1,7 +1,7 @@
 # ADatos2024_ProyectoFinal_Data-dinasty-
 [![Captura-de-pantalla-2024-05-02-201646.png](https://i.postimg.cc/wjngyB89/Captura-de-pantalla-2024-05-02-201646.png)](https://postimg.cc/tsdL8p4c)
 
-Proyecto para el módulo Analista de datos de la carrera tecnica superior en Ciencia de datos e inteligencia artificial. Instituto superior Politécnico de Córdoba.
+Proyecto para el módulo Analista de datos de la carrera técnica superior en Ciencia de Datos e Inteligencia Artificial. Instituto Superior Politécnico de Córdoba.
 
 Miembros del grupo:
 
