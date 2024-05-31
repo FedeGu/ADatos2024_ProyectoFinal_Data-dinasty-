@@ -5,7 +5,6 @@ Proyecto para el módulo Analista de datos de la carrera técnica superior en Ci
 
 Miembros del grupo:
 
-- 34855828 | Shirley Luz Frassa | [Github: sfrassa](https://github.com/sfrassa)
 - 27077572 | Juan Marcelo Molina | [Github: marcelo79](https://github.com/marcelo79)
 - 37093958 | Emilce Lucia Nicole Robles | [Github: emirobles](https://github.com/emirobles)
 - 37739346 | Dante Javier Pagano | [Github: DanteJavier](https://github.com/DanteJavier)
