@@ -12,3 +12,5 @@ Miembros del grupo:
 - 38455889 | Barozzi Eugenia | [Github: BarozziEugenia](https://github.com/BarozziEugenia)
 - 34311109 | Federico Gurrea | [Github: FedeGu](https://github.com/FedeGu)
 - 94404602 | Giovanny Aguilar Rojas | [Github: Haguilerts](https://github.com/Haguilerts)
+
+## **Resumen de las Reuniones de Trabajo** en la [Wiki](https://github.com/FedeGu/ADatos2024_ProyectoFinal_Data-dinasty-/wiki/Resumen-de-las-Reuniones-de-Trabajo-por-Sprint)
