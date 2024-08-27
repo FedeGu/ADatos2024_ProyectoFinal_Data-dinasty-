@@ -9,7 +9,7 @@ Miembros del grupo:
 - 37093958 | Emilce Lucia Nicole Robles | [Github: emirobles](https://github.com/emirobles)
 - 37739346 | Dante Javier Pagano | [Github: DanteJavier](https://github.com/DanteJavier)
 - 32930970 | JulieTa Battauz | [Github: Bluelieta](https://github.com/Bluelieta)
-- 38455889 | Barozzi Eugenia | [Github: BarozziEugenia](https://github.com/BarozziEugenia)
+- 38455889 | Barozzi Eugenia | [Github: EugeniaBar](https://github.com/EugeniaBar)
 - 34311109 | Federico Gurrea | [Github: FedeGu](https://github.com/FedeGu)
 - 94404602 | Giovanny Aguilar Rojas | [Github: Haguilerts](https://github.com/Haguilerts)
 
